@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "友達はエンターテイナー/岡村丁寧-lyric video- #音楽  #作詞作曲  #オリジナル曲",
+  "base_artist": "岡村丁寧",
+  "createdAt": "2026-02-12T23:30:05.783980Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友達はエンターテイナー",
+      "artist": "岡村丁寧",
+      "has_synced": false,
+      "path": "select/pl_01_友達はエンターテイナー_岡村丁寧.txt"
+    }
+  ]
+}
